@@ -11,3 +11,4 @@ Wichtig ist auch, dass das Vertrauen in CentOS Bankix durch Transparenz möglich
 - 1.) Verwendung eines weit verbreiteten und gut gepflegten Linux als Ausgangs-Distribution (CentOS).
 - 2.) Nur geringe und nachvollziehbare Eingriffe in die Ausgangs-Distribution.
 - 3.) Zusätzliche Software nur aus wohlbekannten Quellen.
+- 4.) Transparente Schritte bei der Erstellung von CentOS Bankix.
